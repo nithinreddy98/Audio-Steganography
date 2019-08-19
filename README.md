@@ -1,2 +1,2 @@
 # Audio-Steganography
-An application to encrypt data securely in audio files
+An application to encrypt data securely into audio files 
